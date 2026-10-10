@@ -1,0 +1,1 @@
+import{n as e}from"./game-9jGLshuk.js";export{e as WebGLRenderer};
