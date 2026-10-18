@@ -1,0 +1,1 @@
+import{r as e}from"./game-Cbxv3xcr.js";export{e as CanvasRenderer};
